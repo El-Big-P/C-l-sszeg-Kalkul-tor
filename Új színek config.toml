@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#00D4B2"          # Világító türkiz (a gombok és csúszkák színe)
+backgroundColor = "#0F172A"       # Mély sötétkék (a weboldal teljes háttere)
+secondaryBackgroundColor = "#1E293B" # Kicsit világosabb pala-szürke (a beviteli dobozok háttere)
+textColor = "#F8FAFC"             # Tisztán olvasható törtfehér (a szövegek színe)
+font = "sans serif"
